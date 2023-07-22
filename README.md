@@ -1,5 +1,6 @@
 # E-commerce Website 
 Welcome to the Ecommerce project repository! This project is of an online shopping website with many features, such as: Login, product cart, Register, Login and many more.
+
 Developed an end to end Ecommerce web Application using Spring MVC with multiple modules.
 
 ## Used Technologies:
