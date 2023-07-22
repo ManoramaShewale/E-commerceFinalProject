@@ -1,7 +1,7 @@
 # E-commerce Website 
 It is an Online Shooping Website.
 
-#### Features available based on the user role
+#### Features available 
 
   * Home Page
   * Login into Website
