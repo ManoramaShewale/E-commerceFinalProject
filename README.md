@@ -1,5 +1,5 @@
 # E-commerce Website 
-It is an Online Shooping Website.
+Welcome to the Ecommerce project repository! This project is of an online shopping website with many features, such as: Login, product cart, Register, Login and many more.
 
 #### Features available 
 
