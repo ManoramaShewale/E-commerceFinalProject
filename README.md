@@ -3,7 +3,7 @@ Welcome to the Ecommerce project repository! This project is of an online shoppi
 
 Developed an end to end Ecommerce web Application using Spring MVC with multiple modules.
 
-## Used Technologies:
+## Used Technologies:-
 
 * Java
 * Spring (Boot, Data, Security, MVC etc)
@@ -16,7 +16,7 @@ Developed an end to end Ecommerce web Application using Spring MVC with multiple
 * SQL Query
 * Git
   
-## Features available 
+## Features available:- 
 
   * Home Page
   * Login into Website
@@ -26,4 +26,6 @@ Developed an end to end Ecommerce web Application using Spring MVC with multiple
   * Men
     
 
-## Web services project can be found in (https://github.com/ManoramaShewale/E-commerceFinalProject)
+## Web services project can be found in:-
+
+https://github.com/ManoramaShewale/E-commerceFinalProject
